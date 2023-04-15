@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-04-15T01:55:32.423Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ylq3WIbRgtswZPWuaSfz" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-15T01:57:12.415Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="X_tKe0IcBX40_9dHtya_" version="21.1.8" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="1133" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="i3GLFn2MBjc7aQ_3bsVK-1" value="Moroco" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="i3GLFn2MBjc7aQ_3bsVK-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Maroc&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="140" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i3GLFn2MBjc7aQ_3bsVK-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="i3GLFn2MBjc7aQ_3bsVK-1" target="i3GLFn2MBjc7aQ_3bsVK-3" edge="1">
@@ -18,7 +18,7 @@
             <mxPoint x="440" y="140.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i3GLFn2MBjc7aQ_3bsVK-3" value="Rabat" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="i3GLFn2MBjc7aQ_3bsVK-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Rabat&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="110" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i3GLFn2MBjc7aQ_3bsVK-4" value="Capitale" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-15;" parent="1" vertex="1">
@@ -45,7 +45,7 @@
         <mxCell id="i3GLFn2MBjc7aQ_3bsVK-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="i3GLFn2MBjc7aQ_3bsVK-36" target="i3GLFn2MBjc7aQ_3bsVK-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="i3GLFn2MBjc7aQ_3bsVK-36" value="&lt;b&gt;https://www.moraco.fr/&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="i3GLFn2MBjc7aQ_3bsVK-36" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;https://www.moraco.fr/&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="340" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i3GLFn2MBjc7aQ_3bsVK-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="i3GLFn2MBjc7aQ_3bsVK-36" target="i3GLFn2MBjc7aQ_3bsVK-39" edge="1">
@@ -54,7 +54,7 @@
             <mxPoint x="410" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i3GLFn2MBjc7aQ_3bsVK-39" value="&lt;b&gt;https://www.rabat.fr/&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="i3GLFn2MBjc7aQ_3bsVK-39" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;https://www.rabat.fr/&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="465" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i3GLFn2MBjc7aQ_3bsVK-40" value="Capitale" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=60;" parent="1" vertex="1">
